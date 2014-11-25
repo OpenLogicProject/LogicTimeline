@@ -1,0 +1,69 @@
+{
+    "timeline":
+    {
+    	"headline":"Logic and Foundations of Mathematics",
+        "type":"default",
+	"text":"A timeline of the development of formal logic and the foundations of mathematics",
+	"startDate":"1879,,",
+        "asset":
+        {
+            "media":"",
+            "credit":"",
+            "caption":""
+        },
+	"date": [
+            {
+                "startDate":"1831,10,6",
+		"endDate":"1916,2,12",
+                "headline":"Richard Dedekind",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Richard_Dedekind",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1845,3,3",
+		"endDate":"1918,1,6",
+                "headline":"Georg Cantor",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Georg_Cantor",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1848,11,8",
+		"endDate":"1925,7,26",
+                "headline":"Gottlob Frege",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Gottlob_Frege",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1879,,",
+		"endDate":"1879,,",
+                "headline":"Frege's <i>Begriffsschrift</i>",
+                "text":"<p><a href=\"http://en.wikipedia.org/wiki/Gottlob_Frege\">Gottlob Frege</a>'s <i><a href=\"http://en.wikipedia.org/wiki/Begriffsschrift\">Begriffsschrift</a> is published.</i></p>",
+		"tag": "Logic",
+                "asset":
+                {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/0/0c/Begriffsschrift_Titel.png",
+                    "credit":"",
+                    "caption":"The title page of Gottlob Frege's Begriffsschrift, original 1879 edition"
+                }
+            }
+        ]
+    }
+}
