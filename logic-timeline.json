@@ -51,6 +51,773 @@
                     "caption":""
                 }
             },
+	    {
+                "startDate":"1896,3,29",
+		"endDate":"1962,12,24",
+                "headline":"Wilhelm Ackermann",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Wilhelm_Ackermann",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1888,10,17",
+		"endDate":"1977,9,18",
+                "headline":"Paul Bernays",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Paul_Bernays",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1908,7,7",
+		"endDate":"1964,4,12",
+                "headline":"Evert Willem Beth",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Evert_Willem_Beth",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1815,11,2",
+		"endDate":"1864,12,8",
+                "headline":"George Boole",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/George_Boole",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1881,2,27",
+		"endDate":"1966,12,2",
+                "headline":"L. E. J. Brouwer",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/L._E._J._Brouwer",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1891,5,18",
+		"endDate":"1970,9,14",
+                "headline":"Rudolf Carnap",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Rudolf_Carnap",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1903,6,14",
+		"endDate":"1995,8,11",
+                "headline":"Alonzo Church",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Alonzo_Church",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1934,4,2",
+		"endDate":"2007,3,23",
+                "headline":"Paul Cohen",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Paul_Cohen_%28mathematician%29",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1900,9,12",
+		"endDate":"1982,9,12",
+                "headline":"Haskell Curry",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Haskell_Curry",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1806,6,27",
+		"endDate":"1871,3,18",
+                "headline":"Augustus De Morgan",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Augustus_De_Morgan",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1891,2,17",
+		"endDate":"1965,10,15",
+                "headline":"Abraham Fraenkel",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Abraham_Fraenkel",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1919,9,22",
+		"endDate":"1995,11,20",
+                "headline":"Robin Gandy",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Robin_Gandy",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1909,11,24",
+		"endDate":"1945,8,4",
+                "headline":"Gerhard Gentzen",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Gerhard_Gentzen",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1906,4,28",
+		"endDate":"1978,1,14",
+                "headline":"Kurt Gödel",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Kurt_G%C3%B6del",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1921,4,19",
+		"endDate":"2006,11,1",
+                "headline":"Leon Henkin",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Leon_Henkin",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1908,2,12",
+		"endDate":"1931,7,27",
+                "headline":"Jacques Herbrand",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Jacques_Herbrand",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1898,5,9",
+		"endDate":"1980,7,9",
+                "headline":"Arend Heyting",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Arend_Heyting",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1862,1,23",
+		"endDate":"1943,2,14",
+                "headline":"David Hilbert",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/David_Hilbert",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1835,9,1",
+		"endDate":"1882,8,13",
+                "headline":"William Stanley Jevons",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/William_Stanley_Jevons",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1909,1,5",
+		"endDate":"1994,1,25",
+                "headline":"Stephen Cole Kleene",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Stephen_Cole_Kleene",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1847,12,1",
+		"endDate":"1930,3,5",
+                "headline":"Christine Ladd-Franklin",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Christine_Ladd-Franklin",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1886,3,30",
+		"endDate":"1939,5,13",
+                "headline":"Stanisław Leśniewski",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Stanis%C5%82aw_Le%C5%9Bniewski",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1883,4,12",
+		"endDate":"1964,2,3",
+                "headline":"C. I. Lewis",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Clarence_Irving_Lewis",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1920,3,22",
+		"endDate":"1998,6,1",
+                "headline":"Jerzy Łoś",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Jerzy_%C5%81o%C5%9B",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1878,6,26",
+		"endDate":"1957,5,5",
+                "headline":"Leopold Löwenheim",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Leopold_L%C3%B6wenheim",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1878,12,21",
+		"endDate":"1956,2,13",
+                "headline":"Jan Łukasiewicz",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Jan_%C5%81ukasiewicz",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1921,8,2",
+		"endDate":"2012,2,19",
+                "headline":"Ruth Barcan Marcus",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Ruth_Barcan_Marcus",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1930,9,20",
+		"endDate":"1971,3,7",
+                "headline":"Richard Montague",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Richard_Montague",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1913,11,1",
+		"endDate":"1975,8,22",
+                "headline":"Andrzej Mostowski",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Andrzej_Mostowski",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1903,12,28",
+		"endDate":"1957,2,8",
+                "headline":"John von Neumann",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/John_von_Neumann",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1901,8,15",
+		"endDate":"1975,1,9",
+                "headline":"Pyotr Novikov",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Pyotr_Novikov",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"",
+		"endDate":"",
+                "headline":"",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1858,8,27",
+		"endDate":"1932,4,20",
+                "headline":"Giuseppe Peano",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Giuseppe_Peano",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1839,9,10",
+		"endDate":"1914,4,19",
+                "headline":"Charles Sanders Peirce",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Charles_Sanders_Peirce",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1897,2,11",
+		"endDate":"1954,4,21",
+                "headline":"Emil Leon Post",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Emil_Leon_Post",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1904",
+		"endDate":"1943",
+                "headline":"Mojżesz Presburger",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Moj%C5%BCesz_Presburger",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1914,12,4",
+		"endDate":"1969,10,6",
+                "headline":"Arthur Prior",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Arthur_Prior",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1908,6,25",
+		"endDate":"2000,12,25",
+                "headline":"Willard Van Orman Quine",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1903,2,22",
+		"endDate":"1930,1,19",
+                "headline":"Frank P. Ramsey",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Frank_P._Ramsey",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1917,6,20",
+		"endDate":"1994,8,9",
+                "headline":"Helena Rasiowa",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Helena_Rasiowa",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"",
+		"endDate":"",
+                "headline":"",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1918,10,6",
+		"endDate":"1974,4,11",
+                "headline":"Abraham Robinson",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Abraham_Robinson",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1911,11,2",
+		"endDate":"1995,1,27",
+                "headline":"Raphael M. Robinson",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Raphael_M._Robinson",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1919,12,8",
+		"endDate":"1985,7,30",
+                "headline":"Julia Bowman Robinson",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Julia_Robinson",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1907,12,6",
+		"endDate":"1989,9,5",
+                "headline":"J. Barkley Rosser",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/J._Barkley_Rosser",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1872,5,18",
+		"endDate":"1970,2,2",
+                "headline":"Bertrand Russell",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Bertrand_Russell",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1889,9,4",
+		"endDate":"1942,,",
+                "headline":"Moses Schönfinkel",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1841,11,25",
+		"endDate":"1902,6,16",
+                "headline":"Ernst Schröder",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Ernst_Schr%C3%B6der",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1887,5,23",
+		"endDate":"1963,3,23",
+                "headline":"Thoralf Skolem",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Thoralf_Skolem",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1901,1,14",
+		"endDate":"1983,10,26",
+                "headline":"Alfred Tarski",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Alfred_Tarski",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1912,6,23",
+		"endDate":"1954,6,7",
+                "headline":"Alan Turing",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Alan_Turing",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1926,4,4",
+		"endDate":"2002,4,2",
+                "headline":"Robert L. Vaught",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Robert_Lawson_Vaught",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1834,8,4",
+		"endDate":"1923,4,4",
+                "headline":"John Venn",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/John_Venn",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1861,2,15",
+		"endDate":"1947,12,30",
+                "headline":"Alfred North Whitehead",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/John_Venn",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1889,4,26",
+		"endDate":"1951,4,29",
+                "headline":"Ludwig Wittgenstein",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1871,6,27",
+		"endDate":"1953,5,21",
+                "headline":"Ernst Zermelo",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Ernst_Zermelo",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1905,2,17",
+		"endDate":"1977,2,16",
+                "headline":"Rózsa Péter",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1905,3,27",
+		"endDate":"1976,8,2",
+                "headline":"László Kalmár",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Kalm%C3%A1r",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"1909,10,14",
+		"endDate":"1998,8,18",
+                "headline":"Kurt Schütte",
+                "text":"",
+		"tag": "People",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Kurt_Sch%C3%BCtte",
+                    "credit":"",
+                    "caption":""
+                }
+            },
             {
                 "startDate":"1879,,",
 		"endDate":"1879,,",
