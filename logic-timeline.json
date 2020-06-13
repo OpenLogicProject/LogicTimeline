@@ -830,6 +830,32 @@
                     "credit":"",
                     "caption":"The title page of Gottlob Frege's Begriffsschrift, original 1879 edition"
                 }
+	    },
+            {
+                "startDate":"1908,,",
+		"endDate":"1908,,",
+                "headline":"Zermelo's Axiomatization of Set Theory",
+                "text":"<p>Ernst Zermelo publishes &lquot;Investigations in the foundations of set theory I,&rquot; provides first a href=\"http://plato.stanford.edu/entries/zermelo-set-theory/\">axiomatization of the theory of sets</a>.</i></p>",
+		"tag": "Set Theory",
+                "asset":
+                {
+                    "media":"http://link.springer.com/article/10.1007/BF01449999",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1934,,",
+		"endDate":"1935,,",
+                "headline":"Gentzen's Sequent and Natural Deduction Calculi",
+                "text":"<p><a href=\"http://en.wikipedia.org/wiki/Gerhard_Gentzen\">Gerhard Gentzen</a> published &lquot;Investigations into logical deduction,&rquot; introducing natural deduction and the sequent calculus, in which he also proves the cut-elimination theorem, the deciability of intuitionistic logic, and Herbrand's theorem for prenex formulas.</i></p>",
+		"tag": "Proof Theory",
+                "asset":
+                {
+                    "media":"http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=GDZPPN002375508&IDDOC=17178",
+                    "credit":"",
+                    "caption":""
+                }
             }
         ]
     }
