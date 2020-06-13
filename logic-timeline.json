@@ -3,7 +3,7 @@
     {
     	"headline":"Logic and Foundations of Mathematics",
         "type":"default",
-	"text":"A timeline of the development of formal logic and the foundations of mathematics",
+	"text":"A timeline of the development of formal logic and the foundations of mathematics (<a href='https://github.com/OpenLogicProject/LogicTimeline'>Source</a>)",
 	"startDate":"1879,,",
         "asset":
         {
